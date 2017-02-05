@@ -1,1 +1,1 @@
-# wmp
+# wmp -- an entriss project
